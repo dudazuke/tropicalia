@@ -5,7 +5,7 @@
     --laranja-claro: #ff2a958f;
     --alto-contraste-fundo: #e0177cef;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #ff00c8;
 }
 
 body {
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #cf1b66b2;
 
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #cb4392a4;
     border: none;
     font-weight: bold;
 }
