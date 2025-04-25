@@ -5,7 +5,7 @@
     --laranja-claro: #ff2a958f;
     --alto-contraste-fundo: #660b38f8;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ff00c8;
+    --alto-contraste-link: #df15ce7e;
 }
 
 body {
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #cb43923d;
+    background-color: #ca0d7bda;
     border: none;
     font-weight: bold;
 }
